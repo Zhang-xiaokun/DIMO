@@ -1,2 +1,8 @@
 # DIMO
-SIGIR 2024, Session-based recommendation, Co-occurrence patterns of ID, Fine-grained preferences of Modality, Disentanglement learning.
+This is our implementation for the paper:
+
+Disentangling ID and Modality Effects for Session-based Recommendation
+
+Xiaokun Zhang, Bo Xu, Zhaochun Ren, Xiaochen Wang, Hongfei Lin, Fenglong Ma
+
+at SIGIR, 2024
